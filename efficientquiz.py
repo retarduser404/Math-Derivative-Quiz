@@ -3,7 +3,7 @@
 name = input("What is your name? ")
 name = name.title()
 print("""Hello {}, Welcome to Derivative Quiz! 
-You will be presented with 6 questions.
+You will be presented with 10 questions.
 Enter the appropriate answer the question
 Good luck!""".format(name))
 print("-------------------------------------------------")
